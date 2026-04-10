@@ -1,2 +1,2 @@
 # SQL-practice
-SQL practice problems solved from HackerRank
+SQL practice problems solved from HackerRank/Leetcode
